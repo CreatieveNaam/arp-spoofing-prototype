@@ -1,0 +1,9 @@
+Todo
+Unit test in classes with lots of logic
+Fix ICMP dups
+Fix potential spagtehi code
+Send handle close?
+Make network a component / service
+Network abstract NetworkDevice
+Automate network discovery
+Fix hardcoded mac addresses in handler
