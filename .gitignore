@@ -10,4 +10,5 @@
 # Idea Specific items
 /target/
 *.iml
+
 .idea/

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>rnc</groupId>
-    <artifactId>jcap</artifactId>
+    <artifactId>arp-spoof-prototype</artifactId>
     <version>0.1</version>
 
     <dependencies>
