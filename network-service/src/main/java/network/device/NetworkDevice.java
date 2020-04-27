@@ -19,4 +19,12 @@ public abstract class NetworkDevice {
         }
     }
 
+    public MacAddress getMacAddress() {
+        return macAddress;
+    }
+
+    public InetAddress getIp() {
+        return ip;
+    }
+
 }

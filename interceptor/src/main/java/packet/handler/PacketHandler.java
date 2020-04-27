@@ -14,7 +14,7 @@ import packet.sender.PacketSenderFactory;
 class PacketHandler implements IPacketHandler {
     private final IPacketBuilder packetBuilder;
     private final IPacketSender packetSender;
-            private Packet lastSendPacket;
+    private Packet lastSendPacket;
 
     public PacketHandler() {
         packetBuilder = PacketBuilderFactory.getPacketBuilder();

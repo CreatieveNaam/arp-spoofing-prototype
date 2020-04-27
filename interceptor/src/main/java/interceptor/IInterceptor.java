@@ -1,5 +1,6 @@
 package interceptor;
 
+
 import network.device.RemoteNetworkDevice;
 
 public interface IInterceptor {
